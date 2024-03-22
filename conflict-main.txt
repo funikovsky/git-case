@@ -1,1 +1,3 @@
 Hi i`m conflict file you need to resolve me
+
+hello im conf branch - 1
